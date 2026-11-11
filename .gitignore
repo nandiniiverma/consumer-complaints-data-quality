@@ -1,23 +1,43 @@
-# Virtual environment
-.venv/
-venv/
 
-# Python caches
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 .pytest_cache/
 
-# Large / regenerable data: never commit these
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated database
+database/*
+!database/.gitkeep
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Raw datasets
 data/raw/*
 !data/raw/.gitkeep
+
+# Processed datasets
 data/processed/*
 !data/processed/.gitkeep
-database/*.db
-database/*.db-journal
-database/*.sqlite
 
-# Editor / OS files
+# Generated reports
+reports/*
+!reports/.gitkeep
+
+# Editor and operating system files
 .vscode/
+.idea/
 .DS_Store
 Thumbs.db
 
