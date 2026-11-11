@@ -1,0 +1,20 @@
+column_name,valid_value
+submitted_via,Web
+submitted_via,Phone
+submitted_via,Referral
+submitted_via,Postal mail
+submitted_via,Fax
+submitted_via,Email
+company_response_to_consumer,Closed
+company_response_to_consumer,Closed with explanation
+company_response_to_consumer,Closed with monetary relief
+company_response_to_consumer,Closed with non-monetary relief
+company_response_to_consumer,Closed with relief
+company_response_to_consumer,Closed without relief
+company_response_to_consumer,In progress
+company_response_to_consumer,Untimely response
+timely_response,Yes
+timely_response,No
+consumer_disputed,Yes
+consumer_disputed,No
+consumer_disputed,N/A

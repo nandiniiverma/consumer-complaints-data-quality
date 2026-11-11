@@ -1,0 +1,60 @@
+state,state_name,complaints
+FL,Florida,13924
+TX,Texas,13253
+CA,California,9974
+GA,Georgia,7832
+NY,New York,6323
+IL,Illinois,4622
+PA,Pennsylvania,4079
+NJ,New Jersey,3618
+NC,North Carolina,3350
+MD,Maryland,2647
+MI,Michigan,2405
+OH,Ohio,2144
+VA,Virginia,2073
+LA,Louisiana,1980
+AL,Alabama,1913
+SC,South Carolina,1819
+AZ,Arizona,1465
+MA,Massachusetts,1445
+TN,Tennessee,1422
+IN,Indiana,1252
+NV,Nevada,1205
+MS,Mississippi,1098
+MO,Missouri,1059
+CT,Connecticut,734
+PR,Puerto Rico,709
+MN,Minnesota,641
+WI,Wisconsin,620
+WA,Washington,614
+CO,Colorado,572
+AR,Arkansas,526
+DE,Delaware,468
+KY,Kentucky,446
+DC,District of Columbia,383
+OK,Oklahoma,382
+NE,Nebraska,243
+KS,Kansas,237
+OR,Oregon,231
+IA,Iowa,221
+RI,Rhode Island,215
+UT,Utah,209
+None,Unrecognised or missing,171
+NM,New Mexico,142
+HI,Hawaii,140
+ID,Idaho,85
+NH,New Hampshire,83
+WV,West Virginia,82
+AK,Alaska,61
+ND,North Dakota,57
+ME,Maine,37
+MT,Montana,25
+SD,South Dakota,23
+WY,Wyoming,23
+VT,Vermont,19
+VI,U.S. Virgin Islands,17
+AE,Armed Forces Europe,10
+AA,Armed Forces Americas,8
+UNITED STATES MINOR OUTLYING ISLANDS,Unrecognised or missing,7
+AP,Armed Forces Pacific,6
+GU,Guam,1

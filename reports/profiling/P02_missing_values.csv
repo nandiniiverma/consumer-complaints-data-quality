@@ -1,0 +1,19 @@
+column_name,requirement,missing_count,missing_pct
+complaint_id,Mandatory,0,0.0
+date_received,Mandatory,0,0.0
+product,Mandatory,0,0.0
+issue,Mandatory,0,0.0
+company,Mandatory,0,0.0
+submitted_via,Mandatory,0,0.0
+date_sent_to_company,Mandatory,0,0.0
+company_response_to_consumer,Mandatory,0,0.0
+timely_response,Mandatory,0,0.0
+state,Optional (monitored),0,0.0
+zip_code,Optional,0,0.0
+sub_product,Optional,0,0.0
+sub_issue,Optional,0,0.0
+company_public_response,Optional,0,0.0
+tags,Optional,0,0.0
+consumer_consent_provided,Optional,99350,100.0
+consumer_disputed,Optional,99350,100.0
+consumer_complaint_narrative,Optional (not loaded by default),99350,100.0

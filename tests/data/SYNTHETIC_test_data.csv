@@ -1,0 +1,204 @@
+Date received,Product,Sub-product,Issue,Sub-issue,Consumer complaint narrative,Company public response,Company,State,ZIP code,Tags,Consumer consent provided?,Submitted via,Date sent to company,Company response to consumer,Timely response?,Consumer disputed?,Complaint ID
+2024-01-01,Mortgage,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,10000,,N/A,Web,2024-01-01,Closed with explanation,No,N/A,
+2024-01-08,Credit card,,Problem with a purchase,,,,Synthetic Bank B,NY,10037,,Consent not provided,Phone,2024-01-09,Closed with monetary relief,Yes,Yes,
+2024-01-15,Checking account,,Managing an account,,,,Synthetic Credit Co,TX,10074,,N/A,Referral,2024-01-17,Closed with non-monetary relief,Yes,No,ABC123
+2024-01-22,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,10111,,Consent not provided,Postal mail,2024-01-22,In progress,Yes,,9000004
+2024-01-29,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,10148,,N/A,Fax,2024-01-30,Closed,Yes,N/A,9000005
+2024-02-05,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,10185,,Consent not provided,Email,2024-02-07,Closed with explanation,Yes,Yes,9000006
+2024-02-12,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,10222,,N/A,Web,2024-02-12,Closed with monetary relief,Yes,No,9000007
+2024-02-19,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,10259,,Consent not provided,Phone,2024-02-20,Closed with non-monetary relief,Yes,,9000008
+2024-02-26,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,10296,,N/A,Referral,2024-02-28,In progress,Yes,N/A,9000009
+2024-03-04,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,10333,,Consent not provided,Postal mail,2024-03-04,Closed,Yes,Yes,9000010
+2024-03-11,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,10370,,N/A,Fax,2024-03-12,Closed with explanation,No,No,9000011
+2024-03-18,Credit card,,Problem with a purchase,,,,Synthetic Union F,NY,10407,,Consent not provided,Email,2024-03-20,Closed with monetary relief,Yes,,9000012
+2024-03-25,Checking account,,Managing an account,,,,Synthetic Bank A,TX,10444,,N/A,Web,2024-03-25,Closed with non-monetary relief,Yes,N/A,9000013
+2024-04-01,Student loan,,Dealing with your lender,,,,Synthetic Bank B,FL,10481,,Consent not provided,Phone,2024-04-02,In progress,Yes,Yes,9000014
+2024-04-08,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Credit Co,IL,10518,,N/A,Referral,2024-04-10,Closed,Yes,No,9000015
+2024-04-15,Mortgage,,Trouble during payment process,,,,Synthetic Lender D,PA,10555,,Consent not provided,Postal mail,2024-04-15,Closed with explanation,Yes,,9000016
+2024-04-22,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,10592,,N/A,Fax,2024-04-23,Closed with monetary relief,Yes,N/A,9000017
+2024-04-29,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,10629,,Consent not provided,Email,2024-05-01,Closed with non-monetary relief,Yes,Yes,9000018
+2024-05-06,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,10666,,N/A,Web,2024-05-06,In progress,Yes,No,9000019
+2024-05-13,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,10703,,Consent not provided,Phone,2024-05-14,Closed,Yes,,9000020
+2024-05-20,Mortgage,,Struggling to pay mortgage,,,,,CA,10740,,N/A,Referral,2024-05-22,Closed with explanation,No,N/A,9000021
+2024-05-27,Credit card,,Problem with a purchase,,,,,NY,10777,,Consent not provided,Postal mail,2024-05-27,Closed with monetary relief,Yes,Yes,9000022
+2024-06-03,Checking account,,Managing an account,,,,   ,TX,10814,,N/A,Fax,2024-06-04,Closed with non-monetary relief,Yes,No,9000023
+2024-06-10,Student loan,,Dealing with your lender,,,,Synthetic Union F,FL,10851,,Consent not provided,Email,2024-06-12,In progress,Yes,,9000024
+2024-06-17,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Bank A,IL,10888,,N/A,Web,2024-06-17,Closed,Yes,N/A,9000025
+2024-06-24,Mortgage,,Trouble during payment process,,,,Synthetic Bank B,PA,10925,,Consent not provided,Phone,2024-06-25,Closed with explanation,Yes,Yes,9000026
+2024-07-01,Credit card,,Incorrect information on your report,,,,Synthetic Credit Co,OH,10962,,N/A,Referral,2024-07-03,Closed with monetary relief,Yes,No,9000027
+2024-07-08,Checking account,,Problem with a deposit,,,,Synthetic Lender D,DC,10999,,Consent not provided,Postal mail,2024-07-08,Closed with non-monetary relief,Yes,,9000028
+2024-07-15,Student loan,,Struggling to repay your loan,,,,Synthetic Finance E,PR,11036,,N/A,Fax,2024-07-16,In progress,Yes,N/A,9000029
+2024-07-22,Debt collection,,Written notification about debt,,,,Synthetic Union F,GA,11073,,Consent not provided,Email,2024-07-24,Closed,Yes,Yes,9000030
+,Mortgage,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,11110,,N/A,Web,2024-07-29,Closed with explanation,No,No,9000031
+2024-13-45,Credit card,,Problem with a purchase,,,,Synthetic Bank B,NY,11147,,Consent not provided,Phone,2024-08-06,Closed with monetary relief,Yes,,9000032
+2024-02-30,Checking account,,Managing an account,,,,Synthetic Credit Co,TX,11184,,N/A,Referral,2024-08-14,Closed with non-monetary relief,Yes,N/A,9000033
+05-Dec-2024,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,11221,,Consent not provided,Postal mail,2024-08-19,In progress,Yes,Yes,9000034
+2024-08-26,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,11258,,N/A,Fax,2024-08-27,Closed,Yes,No,9000035
+2024-09-02,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,11295,,Consent not provided,Email,2024-09-04,Closed with explanation,Yes,,9000036
+2024-09-09,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,11332,,N/A,Web,2024-09-09,Closed with monetary relief,Yes,N/A,9000037
+2024-09-16,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,11369,,Consent not provided,Phone,2024-09-17,Closed with non-monetary relief,Yes,Yes,9000038
+2024-09-23,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,11406,,N/A,Referral,2024-09-25,In progress,Yes,No,9000039
+2024-09-30,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,11443,,Consent not provided,Postal mail,2024-09-30,Closed,Yes,,9000040
+1999-05-01,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,11480,,N/A,Fax,1999-05-02,Closed with explanation,No,N/A,9000041
+2031-01-01,Credit card,,Problem with a purchase,,,,Synthetic Union F,NY,11517,,Consent not provided,Email,2031-01-02,Closed with monetary relief,Yes,Yes,9000042
+2024-10-21,Checking account,,Managing an account,,,,Synthetic Bank A,TX,11554,,N/A,Web,2024-10-21,Closed with non-monetary relief,Yes,No,9000043
+2024-10-28,Student loan,,Dealing with your lender,,,,Synthetic Bank B,FL,11591,,Consent not provided,Phone,2024-10-29,In progress,Yes,,9000044
+2024-11-04,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Credit Co,IL,11628,,N/A,Referral,2024-11-06,Closed,Yes,N/A,9000045
+2024-11-11,Mortgage,,Trouble during payment process,,,,Synthetic Lender D,PA,11665,,Consent not provided,Postal mail,2024-11-11,Closed with explanation,Yes,Yes,9000046
+2024-11-18,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,11702,,N/A,Fax,2024-11-19,Closed with monetary relief,Yes,No,9000047
+2024-11-25,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,11739,,Consent not provided,Email,2024-11-27,Closed with non-monetary relief,Yes,,9000048
+2024-01-07,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,11776,,N/A,Web,2024-01-07,In progress,Yes,N/A,9000049
+2024-01-14,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,11813,,Consent not provided,Phone,2024-01-15,Closed,Yes,Yes,9000050
+2024-01-21,Mortgage,,Struggling to pay mortgage,,,,Synthetic Credit Co,CA,11850,,N/A,Referral,,Closed with explanation,No,No,9000051
+2024-01-28,Credit card,,Problem with a purchase,,,,Synthetic Lender D,NY,11887,,Consent not provided,Postal mail,2024-99-99,Closed with monetary relief,Yes,,9000052
+2024-02-04,Checking account,,Managing an account,,,,Synthetic Finance E,TX,11924,,N/A,Fax,2024-02-05,Closed with non-monetary relief,Yes,N/A,9000053
+2024-02-11,Student loan,,Dealing with your lender,,,,Synthetic Union F,FL,11961,,Consent not provided,Email,2024-02-13,In progress,Yes,Yes,9000054
+2024-02-18,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Bank A,IL,11998,,N/A,Web,2024-02-18,Closed,Yes,No,9000055
+2024-02-25,Mortgage,,Trouble during payment process,,,,Synthetic Bank B,PA,12035,,Consent not provided,Phone,2024-02-26,Closed with explanation,Yes,,9000056
+2024-03-03,Credit card,,Incorrect information on your report,,,,Synthetic Credit Co,OH,12072,,N/A,Referral,2024-03-05,Closed with monetary relief,Yes,N/A,9000057
+2024-03-10,Checking account,,Problem with a deposit,,,,Synthetic Lender D,DC,12109,,Consent not provided,Postal mail,2024-03-10,Closed with non-monetary relief,Yes,Yes,9000058
+2024-03-17,Student loan,,Struggling to repay your loan,,,,Synthetic Finance E,PR,12146,,N/A,Fax,2024-03-18,In progress,Yes,No,9000059
+2024-03-24,Debt collection,,Written notification about debt,,,,Synthetic Union F,GA,12183,,Consent not provided,Email,2024-03-26,Closed,Yes,,9000060
+2024-03-31,Mortgage,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,12220,,N/A,Web,2024-03-26,Closed with explanation,No,N/A,9000061
+2024-04-07,Credit card,,Problem with a purchase,,,,Synthetic Bank B,NY,12257,,Consent not provided,Phone,2024-04-02,Closed with monetary relief,Yes,Yes,9000062
+2024-04-14,Checking account,,Managing an account,,,,Synthetic Credit Co,TX,12294,,N/A,Referral,2024-04-16,Closed with non-monetary relief,Yes,No,9000063
+2024-04-21,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,12331,,Consent not provided,Postal mail,2024-04-21,In progress,Yes,,9000064
+2024-04-28,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,12368,,N/A,Fax,2024-04-29,Closed,Yes,N/A,9000065
+2024-05-05,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,12405,,Consent not provided,Email,2024-05-07,Closed with explanation,Yes,Yes,9000066
+2024-05-12,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,12442,,N/A,Web,2024-05-12,Closed with monetary relief,Yes,No,9000067
+2024-05-19,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,12479,,Consent not provided,Phone,2024-05-20,Closed with non-monetary relief,Yes,,9000068
+2024-05-26,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,12516,,N/A,Referral,2024-05-28,In progress,Yes,N/A,9000069
+2024-06-02,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,12553,,Consent not provided,Postal mail,2024-06-02,Closed,Yes,Yes,9000070
+2024-06-09,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,ZZ,12590,,N/A,Fax,2024-06-10,Closed with explanation,No,No,9000071
+2024-06-16,Credit card,,Problem with a purchase,,,,Synthetic Union F,XX,12627,,Consent not provided,Email,2024-06-18,Closed with monetary relief,Yes,,9000072
+2024-06-23,Checking account,,Managing an account,,,,Synthetic Bank A,ca,12664,,N/A,Web,2024-06-23,Closed with non-monetary relief,Yes,N/A,9000073
+2024-06-30,Student loan,,Dealing with your lender,,,,Synthetic Bank B,California,12701,,Consent not provided,Phone,2024-07-01,In progress,Yes,Yes,9000074
+2024-07-07,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Credit Co,IL,12738,,N/A,Referral,2024-07-09,Closed,Yes,No,9000075
+2024-07-14,Mortgage,,Trouble during payment process,,,,Synthetic Lender D,PA,12775,,Consent not provided,Postal mail,2024-07-14,Closed with explanation,Yes,,9000076
+2024-07-21,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,12812,,N/A,Fax,2024-07-22,Closed with monetary relief,Yes,N/A,9000077
+2024-07-28,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,12849,,Consent not provided,Email,2024-07-30,Closed with non-monetary relief,Yes,Yes,9000078
+2024-08-04,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,12886,,N/A,Web,2024-08-04,In progress,Yes,No,9000079
+2024-08-11,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,12923,,Consent not provided,Phone,2024-08-12,Closed,Yes,,9000080
+2024-08-18,Mortgage,,Struggling to pay mortgage,,,,Synthetic Credit Co,,12960,,N/A,Referral,2024-08-20,Closed with explanation,No,N/A,9000081
+2024-08-25,Credit card,,Problem with a purchase,,,,Synthetic Lender D,,12997,,Consent not provided,Postal mail,2024-08-25,Closed with monetary relief,Yes,Yes,9000082
+2024-09-01,Checking account,,Managing an account,,,,Synthetic Finance E,,13034,,N/A,Fax,2024-09-02,Closed with non-monetary relief,Yes,No,9000083
+2024-09-08,Student loan,,Dealing with your lender,,,,Synthetic Union F,,13071,,Consent not provided,Email,2024-09-10,In progress,Yes,,9000084
+2024-09-15,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Bank A,,13108,,N/A,Web,2024-09-15,Closed,Yes,N/A,9000085
+2024-09-22,Mortgage,,Trouble during payment process,,,,Synthetic Bank B,,13145,,Consent not provided,Phone,2024-09-23,Closed with explanation,Yes,Yes,9000086
+2024-09-29,Credit card,,Incorrect information on your report,,,,Synthetic Credit Co,,13182,,N/A,Referral,2024-10-01,Closed with monetary relief,Yes,No,9000087
+2024-10-06,Checking account,,Problem with a deposit,,,,Synthetic Lender D,,13219,,Consent not provided,Postal mail,2024-10-06,Closed with non-monetary relief,Yes,,9000088
+2024-10-13,Student loan,,Struggling to repay your loan,,,,Synthetic Finance E,PR,13256,,N/A,Fax,2024-10-14,In progress,Yes,N/A,9000089
+2024-10-20,Debt collection,,Written notification about debt,,,,Synthetic Union F,GA,13293,,Consent not provided,Email,2024-10-22,Closed,Yes,Yes,9000090
+2024-10-27,,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,13330,,N/A,Web,2024-10-27,Closed with explanation,No,No,9000091
+2024-11-03,Credit card,,,,,,Synthetic Bank B,NY,13367,,Consent not provided,Phone,2024-11-04,Closed with monetary relief,Yes,,9000092
+2024-11-10,Checking account,,,,,,Synthetic Credit Co,TX,13404,,N/A,Referral,2024-11-12,Closed with non-monetary relief,Yes,N/A,9000093
+2024-11-17,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,13441,,Consent not provided,,2024-11-17,In progress,Yes,Yes,9000094
+2024-11-24,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,13478,,N/A,Fax,2024-11-25,,Yes,No,9000095
+2024-01-06,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,13515,,Consent not provided,Email,2024-01-08,,Yes,,9000096
+2024-01-13,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,13552,,N/A,Web,2024-01-13,Closed with monetary relief,,N/A,9000097
+2024-01-20,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,13589,,Consent not provided,Phone,2024-01-21,Closed with non-monetary relief,Yes,Yes,9000098
+2024-01-27,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,13626,,N/A,Referral,2024-01-29,In progress,Yes,No,9000099
+2024-02-03,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,13663,,Consent not provided,Postal mail,2024-02-03,Closed,Yes,,9000100
+2024-02-10,mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,13700,,N/A,Fax,2024-02-11,Closed with explanation,No,N/A,9000101
+2024-02-17,Mortgage ,,Problem with a purchase,,,,Synthetic Union F,NY,13737,,Consent not provided,Email,2024-02-19,Closed with monetary relief,Yes,Yes,9000102
+2024-02-24,MORTGAGE,,Managing an account,,,,Synthetic Bank A,TX,13774,,N/A,Web,2024-02-24,Closed with non-monetary relief,Yes,No,9000103
+2024-03-02,Student loan,,struggling to pay mortgage,,,,Synthetic Bank B,FL,13811,,Consent not provided,Phone,2024-03-03,In progress,Yes,,9000104
+2024-03-09,Debt collection,,STRUGGLING TO PAY MORTGAGE,,,,Synthetic Credit Co,IL,13848,,N/A,Referral,2024-03-11,Closed,Yes,N/A,9000105
+2024-03-16,Mortgage,,Trouble during payment process,,,,SYNTHETIC BANK A,PA,13885,,Consent not provided,Postal mail,2024-03-16,Closed with explanation,Yes,Yes,9000106
+2024-03-23,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,13922,,N/A,Fax,2024-03-24,Closed with monetary relief,Yes,No,9000107
+2024-03-30,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,13959,,Consent not provided,Email,2024-04-01,Closed with non-monetary relief,Yes,,9000108
+2024-04-06,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,13996,,N/A,Web,2024-04-06,In progress,Yes,N/A,9000109
+2024-04-13,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,14033,,Consent not provided,Phone,2024-04-14,Closed,Yes,Yes,9000110
+2024-04-20,Mortgage,,Struggling to pay mortgage,,,, Synthetic Bank A,CA,14070,,N/A,Referral,2024-04-22,Closed with explanation,No,No,9000111
+2024-04-27,Credit card,,Struggling to pay mortgage ,,,,Synthetic Lender D,NY,14107,,Consent not provided,Postal mail,2024-04-27,Closed with monetary relief,Yes,,9000112
+2024-05-04,Checking account,,Managing an account,,,,Synthetic Finance E,TX,14144,,N/A,Fax,2024-05-05,Closed with non-monetary relief,Yes,N/A,9000113
+2024-05-11,Student loan,,Dealing with your lender,,,,Synthetic Union F,FL,14181,,Consent not provided,Email,2024-05-13,In progress,Yes,Yes,9000114
+2024-05-18,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Bank A,IL,14218,,N/A,Web,2024-05-18,Closed,Yes,No,9000115
+2024-05-25,Mortgage,,Trouble during payment process,,,,Synthetic Bank B,PA,14255,,Consent not provided,Phone,2024-05-26,Closed with explanation,Yes,,9000116
+2024-06-01,Credit card,,Incorrect information on your report,,,,Synthetic Credit Co,OH,14292,,N/A,Referral,2024-06-03,Closed with monetary relief,Yes,N/A,9000117
+2024-06-08,Checking account,,Problem with a deposit,,,,Synthetic Lender D,DC,14329,,Consent not provided,Postal mail,2024-06-08,Closed with non-monetary relief,Yes,Yes,9000118
+2024-06-15,Student loan,,Struggling to repay your loan,,,,Synthetic Finance E,PR,14366,,N/A,Fax,2024-06-16,In progress,Yes,No,9000119
+2024-06-22,Debt collection,,Written notification about debt,,,,Synthetic Union F,GA,14403,,Consent not provided,Email,2024-06-24,Closed,Yes,,9000120
+2024-06-29,Mortgage,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,14440,,N/A,Carrier pigeon,2024-06-29,Closed with explanation,No,N/A,9000121
+2024-07-06,Credit card,,Problem with a purchase,,,,Synthetic Bank B,NY,14477,,Consent not provided,web,2024-07-07,Closed with monetary relief,Yes,Yes,9000122
+2024-07-13,Checking account,,Managing an account,,,,Synthetic Credit Co,TX,14514,,N/A,Referral,2024-07-15,Closed with magic,Yes,No,9000123
+2024-07-20,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,14551,,Consent not provided,Postal mail,2024-07-20,closed with explanation,Yes,,9000124
+2024-07-27,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,14588,,N/A,Fax,2024-07-28,Closed,Maybe,N/A,9000125
+2024-08-03,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,14625,,Consent not provided,Email,2024-08-05,Closed with explanation,yes,Yes,9000126
+2024-08-10,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,14662,,N/A,Web,2024-08-10,Closed with monetary relief,Yes,Perhaps,9000127
+2024-08-17,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,14699,,Consent not provided,Phone,2024-08-18,Closed with non-monetary relief,Yes,,9000128
+2024-08-24,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,14736,,N/A,Referral,2024-08-26,In progress,Yes,N/A,9000129
+2024-08-31,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,14773,,Consent not provided,Postal mail,2024-08-31,Closed,Yes,Yes,9000130
+2024-09-07,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,14810,,N/A,Fax,2024-09-08,Closed with explanation,No,No,9000131
+2024-09-14,Credit card,,Problem with a purchase,,,,Synthetic Union F,NY,14847,,Consent not provided,Email,2024-09-16,Closed with monetary relief,Yes,,9000132
+2024-09-21,Checking account,,Managing an account,,,,Synthetic Bank A,TX,14884,,N/A,Web,2024-09-21,Closed with non-monetary relief,Yes,N/A,9000133
+2024-09-28,Student loan,,Dealing with your lender,,,,Synthetic Bank B,FL,14921,,Consent not provided,Phone,2024-09-29,In progress,Yes,Yes,9000134
+2024-10-05,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Credit Co,IL,14958,,N/A,Referral,2024-10-07,Closed,Yes,No,9000135
+2024-10-12,Mortgage,,Trouble during payment process,,,,Synthetic Lender D,PA,14995,,Consent not provided,Postal mail,2024-10-12,Closed with explanation,Yes,,9000136
+2024-10-19,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,15032,,N/A,Fax,2024-10-20,Closed with monetary relief,Yes,N/A,9000137
+2024-10-26,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,15069,,Consent not provided,Email,2024-10-28,Closed with non-monetary relief,Yes,Yes,9000138
+2024-11-02,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,15106,,N/A,Web,2024-11-02,In progress,Yes,No,9000139
+2024-11-09,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,15143,,Consent not provided,Phone,2024-11-10,Closed,Yes,,9000140
+2024-11-16,Mortgage,,Struggling to pay mortgage,,,,Synthetic Credit Co,CA,15180,,N/A,Referral,2024-11-18,Closed with explanation,No,N/A,9000141
+2024-11-23,Credit card,,Problem with a purchase,,,,Synthetic Lender D,NY,15217,,Consent not provided,Postal mail,2024-11-23,Closed with monetary relief,Yes,Yes,9000142
+2024-01-05,Checking account,,Managing an account,,,,Synthetic Finance E,TX,15254,,N/A,Fax,2024-01-06,Closed with non-monetary relief,Yes,No,9000143
+2024-01-12,Student loan,,Dealing with your lender,,,,Synthetic Union F,FL,15291,,Consent not provided,Email,2024-01-14,In progress,Yes,,9000144
+2024-01-19,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Bank A,IL,15328,,N/A,Web,2024-01-19,Closed,Yes,N/A,9000145
+2024-01-26,Mortgage,,Trouble during payment process,,,,Synthetic Bank B,PA,15365,,Consent not provided,Phone,2024-01-27,Closed with explanation,Yes,Yes,9000146
+2024-02-02,Credit card,,Incorrect information on your report,,,,Synthetic Credit Co,OH,15402,,N/A,Referral,2024-02-04,Closed with monetary relief,Yes,No,9000147
+2024-02-09,Checking account,,Problem with a deposit,,,,Synthetic Lender D,DC,15439,,Consent not provided,Postal mail,2024-02-09,Closed with non-monetary relief,Yes,,9000148
+2024-02-16,Student loan,,Struggling to repay your loan,,,,Synthetic Finance E,PR,15476,,N/A,Fax,2024-02-17,In progress,Yes,N/A,9000149
+2024-02-23,Debt collection,,Written notification about debt,,,,Synthetic Union F,GA,15513,,Consent not provided,Email,2024-02-25,Closed,Yes,Yes,9000150
+2024-03-01,Mortgage,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,15550,,N/A,Web,2024-03-01,Closed with explanation,No,No,9000151
+2024-03-08,Credit card,,Problem with a purchase,,,,Synthetic Bank B,NY,15587,,Consent not provided,Phone,2024-03-09,Closed with monetary relief,Yes,,9000152
+2024-03-15,Checking account,,Managing an account,,,,Synthetic Credit Co,TX,15624,,N/A,Referral,2024-03-17,Closed with non-monetary relief,Yes,N/A,9000153
+2024-03-22,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,15661,,Consent not provided,Postal mail,2024-03-22,In progress,Yes,Yes,9000154
+2024-03-29,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,15698,,N/A,Fax,2024-03-30,Closed,Yes,No,9000155
+2024-04-05,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,15735,,Consent not provided,Email,2024-04-07,Closed with explanation,Yes,,9000156
+2024-04-12,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,15772,,N/A,Web,2024-04-12,Closed with monetary relief,Yes,N/A,9000157
+2024-04-19,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,15809,,Consent not provided,Phone,2024-04-20,Closed with non-monetary relief,Yes,Yes,9000158
+2024-04-26,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,15846,,N/A,Referral,2024-04-28,In progress,Yes,No,9000159
+2024-05-03,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,15883,,Consent not provided,Postal mail,2024-05-03,Closed,Yes,,9000160
+2024-05-10,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,15920,,N/A,Fax,2024-05-11,Closed with explanation,No,N/A,9000161
+2024-05-17,Credit card,,Problem with a purchase,,,,Synthetic Union F,NY,15957,,Consent not provided,Email,2024-05-19,Closed with monetary relief,Yes,Yes,9000162
+2024-05-24,Checking account,,Managing an account,,,,Synthetic Bank A,TX,15994,,N/A,Web,2024-05-24,Closed with non-monetary relief,Yes,No,9000163
+2024-05-31,Student loan,,Dealing with your lender,,,,Synthetic Bank B,FL,16031,,Consent not provided,Phone,2024-06-01,In progress,Yes,,9000164
+2024-06-07,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Credit Co,IL,16068,,N/A,Referral,2024-06-09,Closed,Yes,N/A,9000165
+2024-06-14,Mortgage,,Trouble during payment process,,,,Synthetic Lender D,PA,16105,,Consent not provided,Postal mail,2024-06-14,Closed with explanation,Yes,Yes,9000166
+2024-06-21,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,16142,,N/A,Fax,2024-06-22,Closed with monetary relief,Yes,No,9000167
+2024-06-28,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,16179,,Consent not provided,Email,2024-06-30,Closed with non-monetary relief,Yes,,9000168
+2024-07-05,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,16216,,N/A,Web,2024-07-05,In progress,Yes,N/A,9000169
+2024-07-12,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,16253,,Consent not provided,Phone,2024-07-13,Closed,Yes,Yes,9000170
+2024-07-19,Mortgage,,Struggling to pay mortgage,,,,Synthetic Credit Co,CA,16290,,N/A,Referral,2024-07-21,Closed with explanation,No,No,9000171
+2024-07-26,Credit card,,Problem with a purchase,,,,Synthetic Lender D,NY,16327,,Consent not provided,Postal mail,2024-07-26,Closed with monetary relief,Yes,,9000172
+2024-08-02,Checking account,,Managing an account,,,,Synthetic Finance E,TX,16364,,N/A,Fax,2024-08-03,Closed with non-monetary relief,Yes,N/A,9000173
+2024-08-09,Student loan,,Dealing with your lender,,,,Synthetic Union F,FL,16401,,Consent not provided,Email,2024-08-11,In progress,Yes,Yes,9000174
+2024-08-16,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Bank A,IL,16438,,N/A,Web,2024-08-16,Closed,Yes,No,9000175
+2024-08-23,Mortgage,,Trouble during payment process,,,,Synthetic Bank B,PA,16475,,Consent not provided,Phone,2024-08-24,Closed with explanation,Yes,,9000176
+2024-08-30,Credit card,,Incorrect information on your report,,,,Synthetic Credit Co,OH,16512,,N/A,Referral,2024-09-01,Closed with monetary relief,Yes,N/A,9000177
+2024-09-06,Checking account,,Problem with a deposit,,,,Synthetic Lender D,DC,16549,,Consent not provided,Postal mail,2024-09-06,Closed with non-monetary relief,Yes,Yes,9000178
+2024-09-13,Student loan,,Struggling to repay your loan,,,,Synthetic Finance E,PR,16586,,N/A,Fax,2024-09-14,In progress,Yes,No,9000179
+2024-09-20,Debt collection,,Written notification about debt,,,,Synthetic Union F,GA,16623,,Consent not provided,Email,2024-09-22,Closed,Yes,,9000180
+2024-09-27,Mortgage,,Struggling to pay mortgage,,,,Synthetic Bank A,CA,16660,,N/A,Web,2024-09-27,Closed with explanation,No,N/A,9000181
+2024-10-04,Credit card,,Problem with a purchase,,,,Synthetic Bank B,NY,16697,,Consent not provided,Phone,2024-10-05,Closed with monetary relief,Yes,Yes,9000182
+2024-10-11,Checking account,,Managing an account,,,,Synthetic Credit Co,TX,16734,,N/A,Referral,2024-10-13,Closed with non-monetary relief,Yes,No,9000183
+2024-10-18,Student loan,,Dealing with your lender,,,,Synthetic Lender D,FL,16771,,Consent not provided,Postal mail,2024-10-18,In progress,Yes,,9000184
+2024-10-25,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Finance E,IL,16808,,N/A,Fax,2024-10-26,Closed,Yes,N/A,9000185
+2024-11-01,Mortgage,,Trouble during payment process,,,,Synthetic Union F,PA,16845,,Consent not provided,Email,2024-11-03,Closed with explanation,Yes,Yes,9000186
+2024-11-08,Credit card,,Incorrect information on your report,,,,Synthetic Bank A,OH,16882,,N/A,Web,2024-11-08,Closed with monetary relief,Yes,No,9000187
+2024-11-15,Checking account,,Problem with a deposit,,,,Synthetic Bank B,DC,16919,,Consent not provided,Phone,2024-11-16,Closed with non-monetary relief,Yes,,9000188
+2024-11-22,Student loan,,Struggling to repay your loan,,,,Synthetic Credit Co,PR,16956,,N/A,Referral,2024-11-24,In progress,Yes,N/A,9000189
+2024-01-04,Debt collection,,Written notification about debt,,,,Synthetic Lender D,GA,16993,,Consent not provided,Postal mail,2024-01-04,Closed,Yes,Yes,9000190
+2024-01-11,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,17030,,N/A,Fax,2024-01-12,Closed with explanation,No,No,9000191
+2024-01-18,Credit card,,Problem with a purchase,,,,Synthetic Union F,NY,17067,,Consent not provided,Email,2024-01-20,Closed with monetary relief,Yes,,9000192
+2024-01-25,Checking account,,Managing an account,,,,Synthetic Bank A,TX,17104,,N/A,Web,2024-01-25,Closed with non-monetary relief,Yes,N/A,9000193
+2024-02-01,Student loan,,Dealing with your lender,,,,Synthetic Bank B,FL,17141,,Consent not provided,Phone,2024-02-02,In progress,Yes,Yes,9000194
+2024-02-08,Debt collection,,Attempts to collect debt not owed,,,,Synthetic Credit Co,IL,17178,,N/A,Referral,2024-02-10,Closed,Yes,No,9000195
+2024-02-15,Mortgage,,Trouble during payment process,,,,Synthetic Lender D,PA,17215,,Consent not provided,Postal mail,2024-02-15,Closed with explanation,Yes,,9000196
+2024-02-22,Credit card,,Incorrect information on your report,,,,Synthetic Finance E,OH,17252,,N/A,Fax,2024-02-23,Closed with monetary relief,Yes,N/A,9000197
+2024-02-29,Checking account,,Problem with a deposit,,,,Synthetic Union F,DC,17289,,Consent not provided,Email,2024-03-02,Closed with non-monetary relief,Yes,Yes,9000198
+2024-03-07,Student loan,,Struggling to repay your loan,,,,Synthetic Bank A,PR,17326,,N/A,Web,2024-03-07,In progress,Yes,No,9000199
+2024-03-14,Debt collection,,Written notification about debt,,,,Synthetic Bank B,GA,17363,,Consent not provided,Phone,2024-03-15,Closed,Yes,,9000200
+2024-03-11,Mortgage,,Struggling to pay mortgage,,,,Synthetic Finance E,CA,10370,,N/A,Fax,2024-03-12,Closed with explanation,No,No,9000011
+2024-03-18,Credit card,,Problem with a purchase,,,,Synthetic Union F,NY,10407,,Consent not provided,Email,2024-03-20,Closed with monetary relief,Yes,,9000012
+2024-03-25,Checking account,,Managing an account,,,,Synthetic Bank B,TX,10444,,N/A,Web,2024-03-25,Closed with non-monetary relief,Yes,N/A,9000013

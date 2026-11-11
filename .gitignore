@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large / regenerable data: never commit these
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+database/*.db
+database/*.db-journal
+database/*.sqlite
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
